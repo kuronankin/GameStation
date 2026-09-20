@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Sem composição — screenshot e wheel saem crus, cada um na sua
+     pasta própria (screenshots/ e wheels/), sem nenhuma camada. -->
+<artwork>
+<output type="screenshot"/>
+<output type="wheel"/>
+</artwork>

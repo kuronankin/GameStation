@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/mnt/GameStation/games/ssd/ngpc/Metal Slug - 1st Mission (World) (En,Ja).zip</path>
+    <name>Metal Slug : 1st Mission (World)(En,Ja)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/ngpc/screenshots/Metal Slug - 1st Mission (World) (En,Ja).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.75</rating>
+    <desc>As a member of the elite forces squad &quot;Peregrine Falcons,&quot; your mission is to eliminate the evil Colonel Bildegaarn. Using the Metal Slug multifunction tank and the Slug Flyer as well as your wits and handgun blast through up to 17 missions in your quest to make the world safe from tyranny. Multiple stage progressions and a gameplay ranking system give reason to play through more than once. In-game save lets the player on the go turn off the Neo Geo Pocket and not lose progress.</desc>
+    <releasedate>19990101T000000</releasedate>
+    <developer>Ukiyotei</developer>
+    <publisher>SNK</publisher>
+    <genre>Shooter / Run and Gun, Shooter</genre>
+    <players>1</players>
+    <kidgame>true</kidgame>
+  </game>
+</gameList>

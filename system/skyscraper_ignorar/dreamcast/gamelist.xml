@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/mnt/GameStation/games/ssd/dreamcast/Metal Slug 6.chd</path>
+    <name>Metal Slug 6</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/dreamcast/screenshots/Metal Slug 6.png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.85</rating>
+    <desc>Metal Slug 6 returns to the Rebel-Martian alliance featured in Metal Slugs 2, X, and 3, but on a much broader scale. Rather than repeating the previous games&apos; events of the Martians breaking the alliance and the Rebels assisting the player in turn, the player now teams up with the Rebels and Martians to combat an even greater threat.</desc>
+    <releasedate>20201031T000000</releasedate>
+    <developer>megavolt85</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shooter / Run and Gun, Shooter</genre>
+    <players>2</players>
+  </game>
+</gameList>

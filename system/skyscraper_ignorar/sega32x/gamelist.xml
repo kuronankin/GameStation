@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/media/kuro_nankin/SD Card1/sega32x/Doom (Japan, USA) (En).zip</path>
+    <name>Doom (Japan, USA)(En)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/sega32x/screenshots/Doom (Japan, USA) (En).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.55</rating>
+    <desc>Doom is the definitive first person shooter developed by id Software and released in 1993. It became a Sega 32X launch title and is widely considered to be one of the games that pioneered and popularized the first person shooter genre. Doom retains a large, dedicated fan base to this day.
+
+The player assumes the role of a nameless Space Marine who uses a variety of weaponry to fight his way through several Mars moonbases and the depths of Hell itself.</desc>
+    <releasedate>19941203T000000</releasedate>
+    <developer>id Software</developer>
+    <publisher>SEGA</publisher>
+    <genre>Shooter, Shooter / FPV</genre>
+    <players>1</players>
+  </game>
+</gameList>

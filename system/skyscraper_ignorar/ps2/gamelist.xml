@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/mnt/GameStation/games/ssd/ps2/Metal Slug Anthology (USA).iso</path>
+    <name>Metal Slug Anthology (USA)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/ps2/screenshots/Metal Slug Anthology (USA).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.65</rating>
+    <desc>The Metal Slug Anthology features seven previously released games in one package. The bundle includes Metal Slug, Metal Slug 2, Metal Slug X, Metal Slug 3, Metal Slug 4, Metal Slug 5, and Metal Slug 6.
+Two-player cooperative action is available, and the game also comes with a variety of unlockable content and a bonus gallery featuring a poster and classic character art.
+</desc>
+    <releasedate>20070327T000000</releasedate>
+    <developer>Terminal Reality</developer>
+    <publisher>SNK</publisher>
+    <genre>Shooter / Run and Gun, Shooter</genre>
+    <players>2</players>
+  </game>
+</gameList>

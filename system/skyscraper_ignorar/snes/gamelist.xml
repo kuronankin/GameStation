@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/media/kuro_nankin/SD Card1/snes/Doom (Europe).zip</path>
+    <name>Doom (Europe)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/snes/screenshots/Doom (Europe).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.55</rating>
+    <desc>The Union Aerospace Corporation has been experimenting with teleportation technology on the moons of Mars, Phobos and Deimos. After the initial breakthroughs, something goes wrong. It seems the scientists have opened a direct gateway to hell. The Phobos base is overrun with demonic creatures, and Deimos simply vanishes. A squad of marines is sent to Phobos, but all except one are quickly annihilated. The surviving marine must face the demons alone.</desc>
+    <releasedate>19951025T000000</releasedate>
+    <developer>Sculptured Software</developer>
+    <publisher>Ocean</publisher>
+    <genre>Shooter / FPV, Shooter</genre>
+    <players>1</players>
+  </game>
+</gameList>

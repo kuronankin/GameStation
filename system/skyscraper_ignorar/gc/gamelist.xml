@@ -1,0 +1,39 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/mnt/GameStation/games/ssd/gc/Resident Evil 2 (USA).rvz</path>
+    <name>Resident Evil 2 (USA)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/gc/screenshots/Resident Evil 2 (USA).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.75</rating>
+    <desc>In Resident Evil 2, the classic action, tense exploration, and puzzle solving gameplay that defined the Resident Evil series returns.
+
+Players join rookie police officer Leon Kennedy and college student Claire Redfield, who are thrust together by a disastrous outbreak in Raccoon City that transformed its population into deadly zombies. Both Leon and Claire have their own separate playable campaigns, allowing players to see the story from both characters&apos; perspectives.
+
+The fate of these two fan favorite characters is in players hands as they work together to survive and get to the bottom of what is behind the terrifying attack on the city. Will they make it out alive?</desc>
+    <releasedate>20030115T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Adventure / Survival Horror, Adventure</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/mnt/GameStation/games/ssd/gc/Resident Evil 3 - Nemesis (USA).rvz</path>
+    <name>Resident Evil 3 : Nemesis (USA)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/gc/screenshots/Resident Evil 3 - Nemesis (USA).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.75</rating>
+    <desc>A month and a half have passed since the mansion lab incident and now the secrets come back to haunt you in Resident Evil 3: Nemesis. Join Jill Valentine in her attempt to escape a nightmarish city in ruins. Around every corner lurk hordes of flesh-eating zombies, hideous mutants, and a relentless new nemesis. You&apos;ll soon rely on cunning and brute force to stay alive. The Resident Evil series has taken a horrifying turn, unveiling new layers in the Umbrella Corporation&apos;s devious activities.</desc>
+    <releasedate>20030115T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Adventure / Survival Horror, Adventure</genre>
+    <players>1</players>
+  </game>
+</gameList>

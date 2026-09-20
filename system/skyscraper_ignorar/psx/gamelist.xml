@@ -1,0 +1,72 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/mnt/GameStation/games/ssd/psx/Medal of Honor (USA).chd</path>
+    <name>Medal of Honor (USA)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/psx/screenshots/Medal of Honor (USA).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.8</rating>
+    <desc>FIGHT WWII FOR THE FIRST TIME
+
+Tomorrow is D-Day. Tonight you land behind enemy lines. The tide of the war is in your hands. Your are an elite Special Forces agent sent to execute covert operations, search and rescue missions, and commando raids. Fight to win the Medal of Honor in the only game that lets you take on Nazis in WWII.</desc>
+    <releasedate>19991031T000000</releasedate>
+    <developer>DreamWorks</developer>
+    <publisher>Electronic Arts</publisher>
+    <genre>Shooter / FPV, Shooter</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/mnt/GameStation/games/ssd/psx/Medal of Honor - Underground (USA).chd</path>
+    <name>Medal of Honor : Underground (USA)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/psx/screenshots/Medal of Honor - Underground (USA).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.9</rating>
+    <desc>The year is 1940, and the conquering force of the Third Reich has invaded France. Nazi Germany has marched into Paris and claimed the once proud nation as its own in its further quest for domination of Europe. The allied forces won&apos;t be coming to liberate France any time soon, as they have their hands full protecting Great Britain. The perception that the French have simply let Hitler walk into their country without a fight has not endeared the rest of the war-torn world to the cause.
+As a young woman named Manon Batiste, you will be thrust into the world of intrigue and violence that is World War II doing all you can to save your beloved homeland by joining the OSS and traveling the world as a member of the French Underground, taking out Gestapo thugs and the SS so that you might become a seasoned veteran and aid in the ultimate liberation of your nation.</desc>
+    <releasedate>20001027T000000</releasedate>
+    <developer>DreamWorks</developer>
+    <publisher>EA Games</publisher>
+    <genre>Shooter / FPV, Shooter</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/mnt/GameStation/games/ssd/psx/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2).chd</path>
+    <name>Resident Evil 2 (Claire Redfield Disc)(USA)(Disc 2)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/psx/screenshots/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 2).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.8</rating>
+    <desc>Resident Evil 2 takes place two months after the events of the first game and is set in Raccoon City, a Midwestern mountain community whose residents have been turned into zombies by the T-virus, a biological weapon developed by the pharmaceutical company Umbrella. In their escape from the city, the two protagonists Leon S. Kennedy and Claire Redfield encounter other survivors and are confronted by William Birkin, the mutated creator of the even more powerful G-virus.
+Previously confined to an old mansion, the Umbrella corporation&apos;s legacy of fatal mutations has spilled over into nearby Raccoon City. The once peaceful town is now overrun with zombies and all manner of genetic mutations. New police recruit Leon Kennedy and Claire Redfield; the sister of STARS agent Chris Redfield, find themselves in the middle of an experiment gone horribly wrong.</desc>
+    <releasedate>19980110T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Adventure / Survival Horror, Adventure</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>/mnt/GameStation/games/ssd/psx/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).chd</path>
+    <name>Resident Evil 2 (Leon Kennedy Disc)(USA)(Disc 1)</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/psx/screenshots/Resident Evil 2 - Dual Shock Ver. (USA) (Disc 1).png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.8</rating>
+    <desc>Resident Evil 2 takes place two months after the events of the first game and is set in Raccoon City, a Midwestern mountain community whose residents have been turned into zombies by the T-virus, a biological weapon developed by the pharmaceutical company Umbrella. In their escape from the city, the two protagonists Leon S. Kennedy and Claire Redfield encounter other survivors and are confronted by William Birkin, the mutated creator of the even more powerful G-virus.
+Previously confined to an old mansion, the Umbrella corporation&apos;s legacy of fatal mutations has spilled over into nearby Raccoon City. The once peaceful town is now overrun with zombies and all manner of genetic mutations. New police recruit Leon Kennedy and Claire Redfield; the sister of STARS agent Chris Redfield, find themselves in the middle of an experiment gone horribly wrong.</desc>
+    <releasedate>19980110T000000</releasedate>
+    <developer>Capcom</developer>
+    <publisher>Capcom</publisher>
+    <genre>Adventure / Survival Horror, Adventure</genre>
+    <players>1</players>
+  </game>
+</gameList>

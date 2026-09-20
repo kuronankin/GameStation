@@ -1,0 +1,43 @@
+<?xml version="1.0"?>
+<gameList>
+  <game>
+    <path>/mnt/GameStation/games/ssd/arcade/kof2002.zip</path>
+    <name>King of Fighters 2002, The</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/arcade/screenshots/kof2002.png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.8</rating>
+    <desc>The second plotless &quot;dream match&quot; in The King of Fighters series, this game sports 39 normal characters and 5 hidden characters, some of whom haven&apos;t appeared since KOF98. The King of Fighters 2002 also has five characters exclusive to the X-Box, the PS2 and/or Dreamcast systems: Shingo Yabuki, King, Geese Howard, &quot;Riot of the Blood&quot; Iori and Leopold Goenitz. Shingo and King are available on all the non-Neo Geo systems, while Geese and the rest are only available on the PS2 and X-Box platforms.
+
+The gameplay system has also changed. The striker system and four-character teams found in the last three KOF releases have been totally removed. In their place are the old-school three man teams and the &quot;Advanced system&quot; from The King of Fighters &apos;97 and The King of Fighters &apos;98.
+</desc>
+    <releasedate>20021218T000000</releasedate>
+    <developer>SNK</developer>
+    <publisher>SNK</publisher>
+    <genre>Fighting / Versus, Fighting</genre>
+    <players>2</players>
+  </game>
+  <game>
+    <path>/mnt/GameStation/games/ssd/arcade/mslug.zip</path>
+    <name>Metal Slug : Super Vehicle-001</name>
+    <thumbnail/>
+    <image>/mnt/GameStation/media/arcade/screenshots/mslug.png</image>
+    <marquee/>
+    <texture/>
+    <video/>
+    <rating>0.9</rating>
+    <desc>Metal Slug, originally released on the Neo Geo, is a side-scrolling shoot&apos;em&apos;up.
+
+The player(s) takes the role of a soldier (or two) and fights a gigantic army. Every level consists of running forward blasting anything that moves, while collecting power-ups along the way (there&apos;s also a wide selection of weaponry in the game). In the end of each level the player goes up against one gigantic boss.
+
+The PlayStation port introduces some extra features: there is a combat school where the player may fight with other players for the best time on each level and an art gallery.
+</desc>
+    <releasedate>19960524T000000</releasedate>
+    <developer>Nazca</developer>
+    <publisher>SNK</publisher>
+    <genre>Shooter / Run and Gun, Shooter, Platform, Platform / Shooter Scrolling</genre>
+    <players>2</players>
+  </game>
+</gameList>
